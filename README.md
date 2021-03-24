@@ -9,6 +9,8 @@ RL model will learn from its experience and over time will be able to identify w
 **WORKING**
     The agent takes an action based on the environment state and the environment returns the reward and the next state. The agent learns from trial and error, initially taking random actions and over time identifying the actions that lead to long-term rewards.
     
+![reinforcement-learning-flow](https://user-images.githubusercontent.com/62986688/112262502-c4840680-8c93-11eb-8474-5c330d03e57f.jpg)
+    
 ## Terms used in Reinforcement Learning
 
 * Agent(): An entity that tries to gain reward by interaction. In practice the agent is a piece of code that implements some policy.
